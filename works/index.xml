@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Mito</title>
+    <link>https://mito1213.github.io/works/</link>
+    <description>Recent content in Works on Mito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jul 2020 16:20:53 +0900</lastBuildDate>
+    
+	<atom:link href="https://mito1213.github.io/works/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Muniverse</title>
+      <link>https://mito1213.github.io/works/muniverse/</link>
+      <pubDate>Sun, 12 Jul 2020 16:20:53 +0900</pubDate>
+      
+      <guid>https://mito1213.github.io/works/muniverse/</guid>
+      <description>https://muniverse.app/
+Muniverseは、音楽のジャンルの派生をグラフ構造で可視化したサービスです。
+自分の好きな音楽ジャンルから関連するジャンルを辿っていくことで、音楽の宇宙を探検しつつ まだ知らなかった新しいお気に入りの音楽を見つけることができます。
+技術的な内容はQiitaに投稿しています。</description>
+    </item>
+    
+  </channel>
+</rss>

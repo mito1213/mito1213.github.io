@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mito on Mito</title>
+    <link>https://mito1213.github.io/</link>
+    <description>Recent content in Mito on Mito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jul 2020 16:20:53 +0900</lastBuildDate>
+    <atom:link href="https://mito1213.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Works</title>
+      <link>https://mito1213.github.io/works/</link>
+      <pubDate>Sun, 12 Jul 2020 16:20:53 +0900</pubDate>
+      
+      <guid>https://mito1213.github.io/works/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
